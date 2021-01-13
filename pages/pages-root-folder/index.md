@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: header_unsplash_9.jpg
 widget1:
   title: "About the Language in Noise REU site"
   url: "{{ site.baseurl }}/about"
