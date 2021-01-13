@@ -27,7 +27,7 @@ author: 'Alan Munn'
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://language-in-noise.github.io'
-baseurl: '/language-in-noise'
+baseurl: '/language-in-noise.github.io'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -69,7 +69,7 @@ permalink          : /:categories/:title/
 highlight          : rouge
 excerpt_separator  : "<!--more-->"
 include            : ['.htaccess']
-remote_theme: Phlow/feeling-responsive
+
 # Exclude these files from your production _site
 exclude:
     - .sass-cache
