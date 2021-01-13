@@ -9,16 +9,16 @@ header:
   image_fullwidth: header_unsplash_9.jpg
 widget1:
   title: "About the Language in Noise REU site"
-  url: "{{ site.baseurl }}/about"
+  url: "/about.html"
   image: widget-1-302x182.jpg
   text: 'This will point to the basic information about the REU'
 widget2:
   title: "Projects"
-  url: "{{ site.baseurl }}/projects"
+  url: "/projects.html"
   text: 'This will point to the projects'
 widget3:
   title: "News"
-  url: "{{ site.baseurl }}/blog"
+  url: "/blog/"
   image: widget-github-303x182.jpg
   text: 'This will point to the blog'
 #

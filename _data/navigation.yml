@@ -1,9 +1,9 @@
 - title: "About"
-  url: "/"
+  url: "/about"
   side: left
 
 - title: "People"
-  url: "/people/"
+  url: "/people"
   side: left
 
 - title: Blog
