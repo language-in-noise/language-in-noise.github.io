@@ -8,6 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
+
 title: 'Language in Noise REU'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
@@ -68,6 +69,7 @@ permalink          : /:categories/:title/
 highlight          : rouge
 excerpt_separator  : "<!--more-->"
 include            : ['.htaccess']
+remote_theme: Phlow/feeling-responsive
 # Exclude these files from your production _site
 exclude:
     - .sass-cache
