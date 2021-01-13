@@ -9,16 +9,16 @@ header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
   title: "About the Language in Noise REU site"
-  url: 'http://language-in-noise.githb.io/language-in-noise/about/'
+  url: "{{ site.baseurl }}/about"
   image: widget-1-302x182.jpg
   text: 'This will point to the basic information about the REU'
 widget2:
   title: "Projects"
-  url: 'http://language-in-noise.githb.io/language-in-noise/projects'
+  url: "{{ site.baseurl }}/projects"
   text: 'This will point to the projects'
 widget3:
   title: "News"
-  url: 'http://language-in-noise.githb.io/language-in-noise/blog'
+  url: "{{ site.baseurl }}/blog"
   image: widget-github-303x182.jpg
   text: 'This will point to the blog'
 #
