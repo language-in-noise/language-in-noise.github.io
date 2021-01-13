@@ -39,7 +39,7 @@ baseurl: '/language-in-noise'
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://language-in-noise.github.io/language-in-noise/images/'
+urlimg: 'https://language-in-noise.github.io/language-in-noise.github.io/images/'
 
 
 # Logo size is 600x80 pixels
