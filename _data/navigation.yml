@@ -10,7 +10,7 @@
   url: "/people"
   side: left
 
-- title: "Blog"
+- title: "News"
   url: "/blog/"
   side: left
   dropdown:
