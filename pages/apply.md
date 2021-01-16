@@ -8,6 +8,6 @@ header:
    image_fullwidth: "Wheatfield2.png"
 permalink: "/apply"
 ---
-Here needs to be some information about how to apply for the program.
+The REU program will begin accepting applications when funding is secured.
 
 Please check the [Important Dates](/apply/dates) for information about application deadlines.

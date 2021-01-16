@@ -1,19 +1,20 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "Important Dates"
 subheadline: "Cognitive Science of Language in Noise"
-teaser: "Applications for the REU program are due on March 15, 2021"
+teaser: "Applications for the REU program will be accepted if the project is funded"
 header:
    image_fullwidth: "Wheatfield2.png"
 permalink: "apply/dates"
 ---
+# We are not accepting applications at this time.
 
-## Program Dates
+## Tentative Program Dates
  - May 15, 2021 – July 31, 2021
 
-## Application Deadline
+## Tentative Application Deadline
  - March 15, 2021
 
-## Notification of Acceptance
+## Tentative Notification of Acceptance
  - April 15, 2021
