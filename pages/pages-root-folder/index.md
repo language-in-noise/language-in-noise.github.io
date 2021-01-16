@@ -7,6 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth: MSUCampus1.jpg
+  caption: "East Campus bike path"
 widget1:
   title: "About the CSLN REU site"
   url: "/about"

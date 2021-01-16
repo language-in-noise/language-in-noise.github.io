@@ -5,7 +5,8 @@ title: "CSLN Contact Information"
 subheadline: "Cognitive Science of Language in Noise"
 teaser: 'For information on applying to the program please visit the application page'
 header:
-   image_fullwidth: "Wheatfield2.png"
+   image_fullwidth: "MSUCampus1.jpg"
+   caption: "East Campus bike path"
 permalink: "/contact"
 ---
 ## PI Contact Information

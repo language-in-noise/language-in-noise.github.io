@@ -5,7 +5,8 @@ title: "Research Mentors"
 subheadline: "Cognitive Science of Language in Noise"
 teaser: 'The following faculty members are currently involved with the project. All faculty are members of the <a href="https://cogsci.msu.edu"> MSU Cognitive Science Program </a>'
 header:
-   image_fullwidth: "Wheatfield2.png"
+   image_fullwidth: "WellsHallWinter2.jpg"
+   caption: "Wells Hall"
 permalink: "/people"
 ---
 

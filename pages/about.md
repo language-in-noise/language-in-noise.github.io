@@ -5,7 +5,8 @@ title: "Research Questions"
 subheadline: "Cognitive Science of Language in Noise"
 teaser: "What is the CSLN?"
 header:
-   image_fullwidth: "Wheatfield2.png"
+   image_fullwidth: "RedCedarWinter1.jpg"
+   caption: "Red Cedar River"
 permalink: "/about"
 ---
 The CSLN theme of the REU program is associated with three inter-related questions that align with shared faculty mentor interests in language in noise:

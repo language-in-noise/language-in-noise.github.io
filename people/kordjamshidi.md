@@ -5,7 +5,8 @@ title: "Parisa Kordjamshidi"
 subheadline: "Assistant Professor, Department of Computer Science and Engineering"
 teaser: ""
 header:
-   image_fullwidth: "Wheatfield2.png"
+   image_fullwidth: "WellsHallWinter2.jpg"
+   caption: "Wells Hall"
 permalink: "people/kordjamshidi"
 ---
 
