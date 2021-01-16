@@ -1,19 +1,21 @@
 ---
 layout: page
 show_meta: false
-title: "People"
-subheadline: "This is a list of people"
-teaser: "This will say something else"
+title: "Research Mentors"
+subheadline: "Cognitive Science of Language in Noise"
+teaser: 'The following faculty members are currently involved with the project. All faculty are members of the <a href="https://cogsci.msu.edu"> MSU Cognitive Science Program </a>'
 header:
-   image_fullwidth: "header_homepage_13.jpg"
+   image_fullwidth: "Wheatfield2.png"
 permalink: "/people"
 ---
-This will contain the main description of the REU People:
 
- -  Silvina Bongiovanni
- -  Brian Buccola
- -  Parisa Kordjamshidi
- -  Devin McAuley
- -  Alan Munn
- -  Cristina Schmitt
- -  Claire Valloton
+ - [Dr. J. Devin McAuley (PI)](/people/mcauley)
+ - [Dr. Cristina Schmitt (Co-PI)](/people/schmitt)
+ - [Dr. Silvina Bongiovanni](/people/bongiovanni)
+ - [Dr. Brian Buccola](/people/buccola)
+ - [Dr. Eric Hunter](/people/hunter)
+ - [Dr. Parisa Kordjamshidi](/people/kordjamshidi)
+ - [Dr. Alan Munn](/people/munn)
+ - [Dr. Claire Vallotton](/people/vallotton)
+ - [Dr. Courtney Venker](/people/venker)
+ - [Dr. Bridget Walsh](/people/walsh)

@@ -12,10 +12,10 @@
 title: 'Language in Noise REU'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Research in Cognitive Science for Undergraduates'
+slogan: 'Research in Cognitive Science with Undergraduates'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Language in Noise REU site'
+description: 'Cognitive Science of Language in Noise REU site'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created by <a href="mailto:amunn@msu.edu">Alan Munn</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
@@ -43,7 +43,7 @@ urlimg: 'https://language-in-noise.github.io/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "wordmark.jpg"
+logo: "CSLN-logo-white.png"
 
 # Plugins
 plugins:
@@ -60,7 +60,7 @@ plugins:
 #               /____/
 #
 paginate: 5                      # Paginates all X entries
-paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
+paginate_path: "news/page:num"   # Pagination path › Important for blog page in /blog/ to work
 
 
 # Theme works best with Kramdown (using the table of contents function)
@@ -161,16 +161,16 @@ defaults:
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
 favicon-32x32:                          'favicon-32x32.png'
-touch-icon-192x192:                     'touch-icon-192x192.png'
-apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'
-apple-touch-icon-152x152-precomposed:   'apple-touch-icon-152x152-precomposed.png'
-apple-touch-icon-144x144-precomposed:   'apple-touch-icon-144x144-precomposed.png'
-apple-touch-icon-120x120-precomposed:   'apple-touch-icon-120x120-precomposed.png'
-apple-touch-icon-114x114-precomposed:   'apple-touch-icon-114x114-precomposed.png'
-apple-touch-icon-76x76-precomposed:     'apple-touch-icon-76x76-precomposed.png'
-apple-touch-icon-72x72-precomposed:     'apple-touch-icon-72x72-precomposed.png'
-apple-touch-icon-precomposed:           'apple-touch-icon-precomposed.png'
-msapplication_tileimage:                'msapplication_tileimage.png'               # Size 144x144
+# touch-icon-192x192:                     'touch-icon-192x192.png'
+# apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'
+# apple-touch-icon-152x152-precomposed:   'apple-touch-icon-152x152-precomposed.png'
+# apple-touch-icon-144x144-precomposed:   'apple-touch-icon-144x144-precomposed.png'
+# apple-touch-icon-120x120-precomposed:   'apple-touch-icon-120x120-precomposed.png'
+# apple-touch-icon-114x114-precomposed:   'apple-touch-icon-114x114-precomposed.png'
+# apple-touch-icon-76x76-precomposed:     'apple-touch-icon-76x76-precomposed.png'
+# apple-touch-icon-72x72-precomposed:     'apple-touch-icon-72x72-precomposed.png'
+# apple-touch-icon-precomposed:           'apple-touch-icon-precomposed.png'
+# msapplication_tileimage:                'msapplication_tileimage.png'               # Size 144x144
 msapplication_tilecolor:                '#fabb00'
 
 
@@ -208,7 +208,7 @@ og_type:                            'website'
 #
 # used in _includes/comments
 
-disqus_shortname: languageinnoise
+# disqus_shortname:
 
 
 #      _____

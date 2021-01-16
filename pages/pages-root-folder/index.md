@@ -6,21 +6,22 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_9.jpg
+  image_fullwidth: MSUCampus1.jpg
 widget1:
-  title: "About the Language in Noise REU site"
+  title: "About the CSLN REU site"
   url: "/about"
-  image: widget-1-302x182.jpg
-  text: 'This will point to the basic information about the REU'
+  image: "GLEEFUL2019-2.jpg"
+  text: 'Learn about the main goals of the project.'
 widget2:
   title: "Projects"
   url: "/projects"
   text: 'This will point to the projects'
+  image: "GLEEFUL3.jpg"
 widget3:
-  title: "News"
-  url: "/blog"
-  image: widget-github-303x182.jpg
-  text: 'This will point to the blog'
+  title: "People"
+  url: "/people"
+  image: "GLEEFUL2016-1.jpg"
+  text: "Meet our faculty mentors"
 #
 permalink: /index.html
 # Use the call for action to show a button on the frontpage
