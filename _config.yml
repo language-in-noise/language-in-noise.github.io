@@ -18,7 +18,7 @@ slogan: 'Research in Cognitive Science with Undergraduates'
 description: 'Cognitive Science of Language in Noise REU site'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created by <a href="mailto:amunn@msu.edu">Alan Munn</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Created by <a href="mailto:amunn@msu.edu">Alan Munn</a> with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="https://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
@@ -26,7 +26,7 @@ author: 'Alan Munn'
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://language-in-noise.github.io'
+url: 'https://language-in-noise.cogsci.msu.edu'
 baseurl: '/'
 
 # This is for the editing function in _/includes/improve_content
@@ -39,7 +39,7 @@ baseurl: '/'
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://language-in-noise.github.io/images/'
+urlimg: 'https://language-in-noise.cogsci.msu.edu/images/'
 
 
 # Logo size is 600x80 pixels

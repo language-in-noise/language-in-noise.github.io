@@ -130,7 +130,7 @@ $base-line-height: 1.5 !default;
     content: "";
     position: absolute;
     display: block;
-    height: 0;
+    height: 0.1px;
 
     @if $offcanvas {
       @if $top {
